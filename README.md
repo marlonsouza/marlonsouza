@@ -2,7 +2,7 @@
 
 # 👨‍💻 Marlon Henrique de Souza
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&multiline=true&width=800&height=300&lines=Full+Stack+Developer;Coffee+%E2%86%92+Code+Converter;Bug+Hunter+%26+Feature+Creator;Stack+Overflow+Professional" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&multiline=true&width=800&height=300&lines=Full+Stack+Developer;Coffee+%E2%86%92+Code+Converter;Bug+Hunter+%26+Feature+Creator;Stack+Overflow+Professional;Vibe+Coding+Specialist;%F0%9F%8E%B5+Coding+with+Lo-Fi+Beats;The+Matrix+Has+You..." alt="Typing SVG" />
 
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" height="200"/>
