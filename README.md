@@ -1,4 +1,31 @@
-# Hi there! 👋 I'm Marlon Henrique de Souza
+<div align="center">
+
+# 👨‍💻 Marlon Henrique de Souza
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer;Java+%7C+Angular+Specialist;An+Problem+Solver" alt="Typing SVG" />
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" height="200"/>
+</div>
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                    Welcome to the Matrix of Code                             ║
+║                                                                              ║
+║  01001000 01100101 01101100 01101100 01101111  01010111 01101111 01110010    ║
+║  01101100 01100100  - Hello World in Binary                                 ║
+║                                                                              ║
+║  > Executing marlon_profile.exe...                                          ║
+║  > Loading skills: ████████████████████████████████████████ 100%            ║
+║  > Status: Senior Developer ONLINE                                          ║
+║  > Location: Santa Catarina, Brasil                                         ║
+║  > Experience: 12+ years in the Matrix                                      ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
 
 ## 🚀 About Me
 **Full Stack Developer - Java | Angular** based in Santa Catarina, Brazil
